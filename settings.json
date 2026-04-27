@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CrimsonC0re.aternos.me",
+    "ip": "donkey.aternos.host",
     "port": 20593,
     "version": "",
     "try-creative": false
